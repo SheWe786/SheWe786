@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shewe786&label=Profile%20views&color=0e75b6&style=flat" alt="shewe786" /> </p>
 
 
+- 🌱 I’m currently learning *DSA, HTML, CSS, Javascript,React, NodeJS*
 
 - 📫 How to reach me **shivii.tiwari786@gmail.com**
 
