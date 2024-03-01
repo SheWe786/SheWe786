@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shewe786&label=Profile%20views&color=0e75b6&style=flat" alt="shewe786" /> </p>
 
 
-- 🌱 I’m currently learning *DSA, HTML, CSS, JavaScript, React, NodeJS, MogoDB*
+- 🌱 I’m currently learning *DSA, HTML, CSS, JavaScript, React, NodeJS, MongoDB*
 
 - 📫 How to reach me **shivii.tiwari786@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shewe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shewe" height="30" width="40" /></a>
+<a href="[https://twitter.com/shewe](https://twitter.com/shiviitiwari)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shewe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivani tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivani tiwari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shewe786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shewe786" height="30" width="40" /></a>
 </p>
